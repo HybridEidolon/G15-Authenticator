@@ -1,0 +1,40 @@
+=================
+G15 Authenticator
+=================
+
+G15 Authenticator is a fully functional Battle.net Mobile Authenticator that
+displays your current Authentication Code in real time on your Logitech G15
+keyboard. This allows you to keep your Battle.net account secure whilst
+not depending on an external accessory or device to do it for you.
+
+----------
+How to Use
+----------
+
+_Coming Soon!_
+
+Also, if you manage to figure out how to operate it, _make sure to back up your
+secret key_ somewhere that isn't your local computer but *secure*. If you don't
+keep it, you won't be able to generate codes to remove the authenticator in the
+future. If you end up losing the secret key, *you will have to contact Blizzard
+support to have the authenticator removed* and because this is *third party
+software* they probably won't be able to provide support for you.
+
+It is, however, not against any policies for using your account to use third
+party authenticators.
+
+You can read more about the Blizzard Mobile Authenticator at the Blizzard
+Support website.
+
+---------
+Liability
+---------
+
+*_USE AT YOUR OWN RISK_*
+
+If your account gets compromised or you are banned because you used this tool,
+it is not my fault. The source code is open to the public for a reason. _Please_
+only download the tool at:
+
+    http://g15auth.github.com
+
