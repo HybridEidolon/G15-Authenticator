@@ -9,7 +9,7 @@ not depending on an external accessory or device to do it for you.
 How to Use
 ----------
 
-_Coming Soon!_
+_Coming Soon! *No, it is not ready for common use.*_
 
 Also, if you manage to figure out how to operate it, _make sure to back up your
 secret key_ somewhere that isn't your local computer but *secure*. If you don't
@@ -23,6 +23,18 @@ party authenticators.
 
 You can read more about the Blizzard Mobile Authenticator at the Blizzard
 Support website.
+
+How to Compile
+--------------
+
+Obviously, you need Eclipse IDE and a Java Runtime Environment. After exporting
+the project to a Runnable Jar, run this:
+
+    start javaw -jar *jarname*.jar secret-key time-difference
+
+Right now the only way to generate the secret key and time difference arguments
+is to use the authenticator.jar in a similar manner, passing the argument
+GENERATE to it.
 
 Liability
 ---------
